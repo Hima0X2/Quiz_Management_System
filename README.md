@@ -46,6 +46,9 @@ System: Would you like to start again? Press s to start or q to quit.
 
 ## ▶️ How to Run
 - Clone or download the project
+  ```
+  git clone https://github.com/Hima0X2/Quiz_Management_System.git
+  ```
 - Open a terminal in the project folder
 - Compile and run the Java program:
 ```
