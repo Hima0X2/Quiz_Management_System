@@ -1,0 +1,162 @@
+[
+    {
+        "answerkey": 2,
+        "question": "What is the main objective of SQA?",
+        "option3": "Add new features",
+        "option4": "Reduce cost only",
+        "option1": "Increase software size",
+        "option2": "Ensure software quality"
+    },
+    {
+        "answerkey": 3,
+        "question": "Which of the following is a white-box testing technique?",
+        "option3": "Decision Coverage",
+        "option4": "Error Guessing",
+        "option1": "Equivalence Partitioning",
+        "option2": "Boundary Value Analysis"
+    },
+    {
+        "answerkey": 3,
+        "question": "Which of the following is not a level of testing?",
+        "option3": "Deployment Testing",
+        "option4": "System Testing",
+        "option1": "Unit Testing",
+        "option2": "Integration Testing"
+    },
+    {
+        "answerkey": 2,
+        "question": "What does SQA stand for?",
+        "option3": "Software Queue Allocation",
+        "option4": "System Quality Assurance",
+        "option1": "Software Query Analysis",
+        "option2": "Software Quality Assurance"
+    },
+    {
+        "answerkey": 3,
+        "question": "What is the main purpose of regression testing?",
+        "option3": "To ensure that changes did not break existing functionality",
+        "option4": "To check security vulnerabilities",
+        "option1": "To test new features",
+        "option2": "To test system's overall functionality"
+    },
+    {
+        "answerkey": 3,
+        "question": "Which of the following is NOT a type of software testing?",
+        "option3": "Feature Testing",
+        "option4": "Integration Testing",
+        "option1": "Acceptance Testing",
+        "option2": "Unit Testing"
+    },
+    {
+        "answerkey": 3,
+        "question": "Which of the following is a non-functional testing type?",
+        "option3": "Performance Testing",
+        "option4": "Integration Testing",
+        "option1": "Usability Testing",
+        "option2": "Unit Testing"
+    },
+    {
+        "answerkey": 1,
+        "question": "What is the difference between alpha testing and beta testing?",
+        "option3": "Alpha testing is automated, and beta testing is manual.",
+        "option4": "There is no difference between alpha and beta testing.",
+        "option1": "Alpha testing is done by developers, and beta testing is done by end-users.",
+        "option2": "Alpha testing is done on production systems, and beta testing is done on staging environments."
+    },
+    {
+        "answerkey": 4,
+        "question": "Which of the following is an example of a black-box testing technique?",
+        "option3": "Equivalence Partitioning",
+        "option4": "All of the above",
+        "option1": "Decision Table Testing",
+        "option2": "Boundary Value Analysis"
+    },
+    {
+        "answerkey": 1,
+        "question": "Which testing is performed without planning and documentation?",
+        "option3": "System Testing",
+        "option4": "Integration Testing",
+        "option1": "Ad-hoc Testing",
+        "option2": "Regression Testing"
+    },
+    {
+        "answerkey": 1,
+        "question": "What is the full form of STLC?",
+        "option3": "Software Test Logic Compiler",
+        "option4": "Systematic Test Level Criteria",
+        "option1": "Software Testing Life Cycle",
+        "option2": "System Testing Level Code"
+    },
+    {
+        "answerkey": 3,
+        "question": "Smoke testing is also known as:",
+        "option3": "Build Verification Testing",
+        "option4": "Integration Testing",
+        "option1": "Sanity Testing",
+        "option2": "Dry Run Testing"
+    },
+    {
+        "answerkey": 3,
+        "question": "Which testing ensures that the software works under expected load?",
+        "option3": "Load Testing",
+        "option4": "Smoke Testing",
+        "option1": "Unit Testing",
+        "option2": "Performance Testing"
+    },
+    {
+        "answerkey": 2,
+        "question": "What is the primary goal of integration testing?",
+        "option3": "To check system usability",
+        "option4": "To validate design specifications",
+        "option1": "To verify individual modules",
+        "option2": "To verify interactions between modules"
+    },
+    {
+        "answerkey": 1,
+        "question": "Which document defines the scope, approach, and schedule of testing activities?",
+        "option3": "Test Log",
+        "option4": "Test Scenario",
+        "option1": "Test Plan",
+        "option2": "Test Case"
+    },
+    {
+        "answerkey": 1,
+        "question": "What type of testing is done at the developer\u2019s site before the product is released?",
+        "option3": "Regression Testing",
+        "option4": "System Testing",
+        "option1": "Alpha Testing",
+        "option2": "Beta Testing"
+    },
+    {
+        "answerkey": 2,
+        "question": "Which of the following helps in identifying boundary errors?",
+        "option3": "State Transition Testing",
+        "option4": "Path Testing",
+        "option1": "Decision Coverage",
+        "option2": "Boundary Value Analysis"
+    },
+    {
+        "answerkey": 3,
+        "question": "Which of the following testing types is concerned with security vulnerabilities?",
+        "option3": "Security Testing",
+        "option4": "Smoke Testing",
+        "option1": "Functional Testing",
+        "option2": "Unit Testing"
+    },
+    {
+        "answerkey": 4,
+        "question": "What does usability testing focus on?",
+        "option3": "Backend logic",
+        "option4": "User experience and ease of use",
+        "option1": "Security features",
+        "option2": "Database performance"
+    },
+    {
+        "answerkey": 4,
+        "question": "Which is not part of system testing?",
+        "option3": "Load Testing",
+        "option4": "Sanity Testing",
+        "option1": "Regression Testin",
+        "option2": "Unit Testing"
+    }
+]
