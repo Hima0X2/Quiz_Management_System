@@ -19,7 +19,8 @@ Example data in `users.json`:
 ```json
 [
   { "username": "admin", "password": "1234", "role": "admin" },
-  { "username": "salman", "password": "1234", "role": "student" }
+  { "username": "salman", "password": "1234", "role": "student" },
+  { "username": "samanta", "password": "1234", "role": "student" }
 ]
 ```
 ## 🛠️ Features
@@ -52,6 +53,9 @@ javac Main.java
 java Main
 ```
 ## 📽 Demo Video
+
+https://github.com/user-attachments/assets/a7eb2134-e71a-4547-bbd7-990a0f27e980
+
 
 ## Technology Used 
 - JAVA
