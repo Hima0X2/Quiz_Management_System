@@ -56,8 +56,13 @@ javac Main.java
 java Main
 ```
 ## 📽 Demo Video
+### Admin
 
-https://github.com/user-attachments/assets/a7eb2134-e71a-4547-bbd7-990a0f27e980
+https://github.com/user-attachments/assets/ad8de557-1ca4-4e7f-b933-0994bac4e7e8
+
+### Student
+
+https://github.com/user-attachments/assets/81cbe5fa-0017-4ad9-989b-41608614e19b
 
 
 ## Technology Used 
